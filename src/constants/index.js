@@ -204,7 +204,7 @@ import {
     {
       name: "Fitness Exercise Website",
       description:
-        "Responsive fitness website that suggest you exercises for every muscle group.",
+        "Responsive frontend website designed to help users achieve their fitness and wellness goals by providing comprehensive exercise routines for every muscle group.",
       tags: [
         {
           name: "react",
@@ -223,46 +223,46 @@ import {
       source_code_link: "https://github.com/KshitijPatel7/Fitness-Exercise-",
     },
     {
-      name: "My Farmer",
+      name: "Movix",
       description:
-        " Responsive Frontend website to help farmers redefine farming methods",
+        " Frontend website that provides genres and description of over 100+ movies using the TMDP API. Search and filter options to navigate the catalogue.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
-        // {
-        //   name: "restapi",
-        //   color: "green-text-gradient",
-        // },
         {
-          name: "css",
+          name: "redux",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://myfarmer-assistance.netlify.app/",
+      source_code_link: "https://movix-website-nine.vercel.app/",
     },
     {
-      name: "Weather App",
+      name: "Youtube Lite",
       description:
-        " Frontend website to see current and future weather forecast for the given location.",
+        " Created a video streaming website along with rapid api integration for a seamless video experience. Enforced 14 different categories to choose from and designed search page feature.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "green-text-gradient",
         },
         {
-          name: "typescript",
+          name: "rapidapi",
           color: "blue-text-gradient",
         },
         {
-          name: "weatherapi",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://weather-app-task-gamma.vercel.app/",
+      source_code_link: "https://youtube-lite-livid.vercel.app/",
     },
   ];
   
