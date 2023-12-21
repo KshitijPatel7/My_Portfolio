@@ -16,11 +16,13 @@ import {
     figma,
     docker,
     meta,
+    vit,
     starbucks,
     tesla,
     shopify,
     carrent,
     jobit,
+    movix,
     tripguide,
     threejs,
   } from "../assets";
@@ -161,7 +163,7 @@ import {
     {
       title: "VIT Bhopal University",
       // company_name: "Meta",
-      icon: meta,
+      icon: vit,
       iconBg: "#E6DEDD",
       date: "September 2020",
       points: [
@@ -240,7 +242,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: movix,
       source_code_link: "https://movix-website-nine.vercel.app/",
     },
     {
