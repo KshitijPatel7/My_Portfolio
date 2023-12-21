@@ -7,7 +7,9 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import movix from "./movix.png";
-import vit from "./company/vit.png";
+import youtube from "./youtube.png";
+import fitness from "./fitness.png";
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -27,6 +29,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import vit from "./company/vit.png";
+import don from "./company/don.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -61,6 +65,9 @@ export {
   carrent,
   jobit,
   movix,
+  youtube,
+  fitness,
   vit,
+  don,
   tripguide,
 };

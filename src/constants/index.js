@@ -17,12 +17,15 @@ import {
     docker,
     meta,
     vit,
+    don,
     starbucks,
     tesla,
     shopify,
     carrent,
     jobit,
     movix,
+    youtube,
+    fitness,
     tripguide,
     threejs,
   } from "../assets";
@@ -124,7 +127,7 @@ import {
     {
       title: "St. Don Bosco",
       // company_name: "Starbucks",
-      icon: starbucks,
+      icon: don,
       iconBg: "#383E56",
       date: "2018",
       points: [
@@ -150,7 +153,7 @@ import {
     {
       title: "St. Don Bosco",
       // company_name: "Shopify",
-      icon: shopify,
+      icon: don,
       iconBg: "#383E56",
       date: "2020",
       points: [
@@ -221,7 +224,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: fitness,
       source_code_link: "https://github.com/KshitijPatel7/Fitness-Exercise-",
     },
     {
@@ -263,7 +266,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: youtube,
       source_code_link: "https://youtube-lite-livid.vercel.app/",
     },
   ];
